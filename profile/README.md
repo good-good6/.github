@@ -26,7 +26,8 @@
 
 ### Prerequisites
 
-- **Java 8** 
+- **Java 8**
+- **python 3.8**
 -
 -
 
